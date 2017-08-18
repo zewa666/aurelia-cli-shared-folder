@@ -12,9 +12,9 @@
     "moduleResolution": "node",
     "lib": ["es2017", "dom"],
     "paths": {
-      "~/*": ["*"]
+      "shared/*": ["../shared/*"]
     },
-    "baseUrl": "../"
+    "baseUrl": "."
   },
   "exclude": [
     "node_modules",

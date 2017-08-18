@@ -1,4 +1,4 @@
-import { DemoModel, guid } from "~/shared/index";
+import { DemoModel, guid } from "shared/index";
 
 export class App {
   public person: DemoModel;

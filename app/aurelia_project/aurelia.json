@@ -40,7 +40,7 @@
   },
   "paths": {
     "root": "src",
-    "~": "../..",
+    "shared": "../../shared",
     "resources": "resources",
     "elements": "resources/elements",
     "attributes": "resources/attributes",
